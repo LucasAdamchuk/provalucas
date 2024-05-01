@@ -1,4 +1,4 @@
-export default function Course(){
+export default function Body(){
   return(
   <div>
     <div className="font-bold">
@@ -17,7 +17,7 @@ export default function Course(){
 
     <div className="rounded-2xl bg-[#4d4d4d]">
       <a href="https://google.com">
-      <img src="/img/css.svg" alt="" />
+      <img src="/img/rua.svg" alt="" />
       <div>
         <h4>Curso de CSS</h4>
         <p>O Curso de CSS é bacana ...</p>
@@ -27,7 +27,7 @@ export default function Course(){
 
     <div className="rounded-2xl bg-[#4d4d4d]">
       <a href="https://google.com">
-      <img src="/img/js.svg" alt="" />
+      <img src="/img/casa.svg" alt="" />
       <div>
         <h4>Curso de JS</h4>
         <p>O Curso de JS é Supimpa ...</p>
